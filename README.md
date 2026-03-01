@@ -1,3 +1,9 @@
+# DEPRECATED
+
+⚠️ **This repository is deprecated.** Please use https://github.com/iacosta3994/monolith_gateway instead.
+
+---
+
 # Atlas MCP Server
 
 A production-ready [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that enables seamless integration with Atlas Monolith Agent via Tailscale network. Built with Server-Sent Events (SSE) transport and deployable to Vercel with zero configuration.
